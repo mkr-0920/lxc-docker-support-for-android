@@ -73,8 +73,8 @@ net/netfilter/xt_qtaguid.c
 
 
 #CONFIG_ANDROID_PARANOID_NETWORK is not set
-CONFIG_DOCKER=y
 
+CONFIG_DOCKER=y
 
 44。按照一般方式重新编译内核，用AnyKernel3 打包后刷入内核，可用kernelsu action 来搞,可用这https://github.com/wu17481748/LXC-DOCKER-KernelSU_Action或实体机........
 
